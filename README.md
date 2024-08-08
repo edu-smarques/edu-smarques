@@ -1,4 +1,15 @@
 ## Hi there 👋
+# Bem-vindo ao meu perfil
+## Eu sou o Eduardo
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
+
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack...
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS...
+
 
 <!--
 **edu-smarques/edu-smarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
